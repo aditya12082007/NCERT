@@ -1,0 +1,6 @@
+{
+  "name": "NCERT Educational Portal",
+  "description": "National Council of Educational Research and Training official educational portal with textbooks, learning resources, and portal access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
